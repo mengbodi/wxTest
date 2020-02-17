@@ -1,0 +1,5 @@
+<view class="container" bind:ttt="onTTT">
+    <com-parent id="{{id}}">
+        <view>comp-child2</view>
+    </com-parent>
+</view>

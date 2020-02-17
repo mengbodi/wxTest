@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "代码片段示例",
+  "usingComponents": {
+    "child": "../components/child/child"
+  }
+}

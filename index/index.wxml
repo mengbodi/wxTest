@@ -1,0 +1,6 @@
+我是直接赋值(可以 toast)
+<child bindmyevent="onTap"></child>
+
+我是通过 data间接赋值(不能 toast)
+
+<child bindmyevent="{{onTapPointer}}"></child>

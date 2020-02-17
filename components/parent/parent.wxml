@@ -1,0 +1,6 @@
+<view class="container">
+    <view>com-parent</view>
+    <view><slot></slot></view>
+    <view bindtap="onTap">button-{{id}}</view>
+    
+</view>
